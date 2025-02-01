@@ -1,6 +1,5 @@
 ---
-title: "PROJECTS"
+title: "Projects"
 ---
 
-
-YDWYDGW
+Creating Projects based on Business Analytics 
