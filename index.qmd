@@ -5,3 +5,5 @@ title: "Moiz Deshmukh"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+![](./images/8A258971-3127-43B5-B253-2F52A0D44027_4_5005_c.jpeg){width="75%" fig-align="center"}
