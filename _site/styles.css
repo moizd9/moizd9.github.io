@@ -5,9 +5,8 @@ body {
 }
 
 /* Style for the upper strip (header or nav bar) */
-header {
-    background-color: #1a87b2; /* Green */
-    color: white;
+header.quarto-header {
+    background-color: #1a87b2; 
+    color: white; 
     padding: 10px;
-    text-align: center;
-}
+    text-align: center;}
