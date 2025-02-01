@@ -2,8 +2,11 @@
 title: "Moiz Deshmukh"
 ---
 
-#Hello! 
+**Hello!** 
 
 My name is **Moiz Deshmukh**, and I am a Master's student of Business Analytics at the Boston University with 3 years of professional work experience.
+
+Feel free to explore my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/moiz-deshmukh-md910/)
+
 
 ![](./images/8A258971-3127-43B5-B253-2F52A0D44027_4_5005_c.jpeg){width="75%" fig-align="center"}
