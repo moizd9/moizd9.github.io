@@ -1,12 +1,36 @@
 ---
-title: "Moiz Deshmukh"
+title: ""
+format:
+  html:
+    theme: cosmo
+    css: styles.css
 ---
 
-**Hello!** 
+::: {html}
+<div style="background-color: #ffd700; padding: 30px; border-radius: 20px; display: flex; align-items: center; justify-content: center; gap: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 30px 0;">
+  
+<!-- Profile Image -->
+<img src="images/8A258971-3127-43B5-B253-2F52A0D44027_4_5005_c.jpeg" alt="Moiz Deshmukh" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
+  
+<!-- Bio Text -->
 
-My name is **Moiz Deshmukh**, and I am a Master's student of Business Analytics at the Boston University with 3 years of professional work experience.
+<div style="color: black; max-width: 500px;">
+<h2 style="margin-bottom: 10px;">Moiz Deshmukh</h2>
+<p style="font-weight: bold; margin: 5px 0;">MS in Business Analytics | Boston University</p>
+<p style="margin: 5px 0;">3 years of professional experience in Data Analytics, Digital Marketing, and Business Operations across India, the UAE, and the USA.</p>
+</div>
+</div>
+:::
 
-Feel free to explore my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/moiz-deshmukh-md910/)
+<br>
 
-
-![](./images/8A258971-3127-43B5-B253-2F52A0D44027_4_5005_c.jpeg){width="75%" fig-align="center"}
+::: {html}
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: 20px;">
+  <a href="mailto:deshmukhmoiz3@gmail.com" class="button" style="padding: 10px 20px; background-color: #ffd700; color: black; text-decoration: none; border: 2px solid black; border-radius: 8px; font-weight: bold;">
+    CONTACT ME
+  </a>
+  <a href="https://www.linkedin.com/in/moiz-deshmukh-md910/" target="_blank">
+    <img src="images/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;">
+  </a>
+</div>
+:::

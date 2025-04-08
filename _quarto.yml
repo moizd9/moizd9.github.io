@@ -8,16 +8,14 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-    href: projects.qmd
-      - projects.qmd
+      - href: projects.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
+
 
 
 
