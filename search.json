@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "Creating Projects based on Business Analytics"
+    "text": "Your browser does not support PDFs. &lt;a href=\"docs/Moiz_Deshmukh_CV().pdf\"&gt;Download the PDF&lt;/a&gt; instead."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Currently pursuing a Master’s degree in Business Analytics at Boston University, USA, I am deeply engaged in understanding data-driven decision-making.\nI have worked at leading marketing agencies in India and Dubai (UAE), enhancing brand performance across diverse industries such as medical, hospitality, real-estate and financial exchange.\n​ As the founder of BizMode Tech, a digital marketing company operating globally, I lead a team that excels in crafting innovative solutions tailored to ensure our clients achieve remarkable success worldwide. My expertise in analytics equips us to adeptly navigate complex business challenges, while my unwavering commitment to excellence and innovation ensures that we consistently exceed expectations in every campaign and project."
   },
   {
     "objectID": "index.html",
@@ -14,10 +21,10 @@
     "text": "Moiz Deshmukh\n\n\nMS in Business Analytics | Boston University\n\n\n3 years of professional experience in Data Analytics, Digital Marketing, and Business Operations across India, the UAE, and the USA.\n\n\n\n\n\n\n\n CONTACT ME"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Currently pursuing a Master’s degree in Business Analytics at Boston University, USA, I am deeply engaged in understanding data-driven decision-making.\nI have worked at leading marketing agencies in India and Dubai (UAE), enhancing brand performance across diverse industries such as medical, hospitality, real-estate and financial exchange.\n​ As the founder of BizMode Tech, a digital marketing company operating globally, I lead a team that excels in crafting innovative solutions tailored to ensure our clients achieve remarkable success worldwide. My expertise in analytics equips us to adeptly navigate complex business challenges, while my unwavering commitment to excellence and innovation ensures that we consistently exceed expectations in every campaign and project."
+    "text": "NYC Real Estate Analysis using Power BI\n\n\n\nThis project presents an in-depth analysis of the residential real estate market in the Bayside neighborhood of Queens, NYC, using Power BI. The objective was to provide actionable insights for a real estate brokerage firm considering opening an office in Bayside. The analysis included importing data from a SQL database, data cleaning, creating a star schema, and performing revenue and forecast analyses to assess the market potential.\n\n\n\n\n\nMarketing Analytics Strategy\n\n\n\nThis analysis covers segmentation, targeting, and optimization strategies to enhance customer experience and maximize revenue. Leveraging data-driven insights, the report recommends actionable marketing strategies to attract diverse customer segments and boost profitability\n\n\n\n\n\nDescriptive Analysis of NYC Real Estate Market using R\n\n\n\nThis project is a comprehensive analysis of real estate data for the Bayside neighborhood in NYC. Utilizing Power BI, the goal was to uncover trends, perform comparative analysis, and derive actionable insights to assist potential investors and real estate professionals in making informed decisions. The analysis involved cleaning raw data, identifying patterns, and conducting correlation and comparative studies across different neighborhoods.\n\n\n\n\n\n2024 U.S. Presidential Elections Campaign Spending Analysis\n\n\n\nThis project presents an in-depth analysis of campaign spending patterns during the 2024 U.S. Presidential Elections. Utilizing publicly available datasets from sources like the Federal Election Commission (FEC) and the University of Florida’s Election Lab, the study focuses on state-wise allocations, party-wise strategies, and temporal spending trends. The goal was to uncover insights into how campaign expenditures influence voter turnout and election outcomes.\n\n\n\n\n\nCar Sales Analysis Dashboard\n\n\n\nThis project presents an analytical overview of car sales performance using Advanced Excel and Looker Studio. The objective was to identify sales patterns, model profitability, recall trends, and customer sentiment across multiple car models and dealership networks to support strategic decision-making."
   }
 ]
