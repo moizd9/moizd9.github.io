@@ -5,17 +5,17 @@ website:
   title: "Moiz Deshmukh"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - href: projects.qmd
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
-
