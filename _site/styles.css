@@ -19,7 +19,6 @@ header.quarto-header, nav.navbar {
     font-size: 18px;
     color: black !important;
     text-transform: uppercase;
-    text-decoration: underline; /* <-- Add this line */
   }
   
 
